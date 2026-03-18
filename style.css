@@ -30,7 +30,7 @@ body button:hover{
 #items{
     display: flex;
     flex-wrap: wrap;    
-    justify-content: flex-start;
+    justify-content: center;
     margin-top: 10px;
 }
 
